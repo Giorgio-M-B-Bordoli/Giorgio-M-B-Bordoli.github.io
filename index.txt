@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Giorgio Bordoli Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Giorgio Bordoli  
+Giorgio Bordoli 
+Cybersecurity & Machine Learning Enthusiast
 
 Show Contacts
 
 Email
-richard@example.com
+giorgio.bordoli01@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (602) 517-6385
 
 Birthday
-June 23, 1982
+January 16, 2001
 
 Location
-Sacramento, California, USA
+Phoenix Arizona, USA
 
 # navbar
 
@@ -32,9 +32,29 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Welcome to My World of Innovation, Hard Work, and Family Values
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Hello! I'm Giorgio, a passionate advocate for science and technology, currently honing my skills in cybersecurity at the IRA A. Fulton School of Engineering. My journey is a blend of deep-rooted Italian traditions and a forward-thinking mindset, fuelled by a relentless pursuit of innovation.
+
+A Fusion of Technology and Entrepreneurship
+I proudly run an AI implementation and consulting business, focusing on elevating Italian ventures with cutting-edge AI technology. This venture is more than a business to me; it's a mission to bridge the gap between traditional practices and technological advancement, ensuring Italy's significant presence in the global tech arena.
+
+Family: My Driving Force
+My family-centric approach is the cornerstone of my life. It propels my ambition to become an indispensable asset in the future job market. "Hard work is the goal" is not just a motto for me; it's a way of life that ensures I do whatever it takes to provide and protect my loved ones.
+
+Philosophy: Radical Honesty and Human Prosperity
+My guiding principles are radical honesty and an unwavering search for truth. I believe in contributing to humanity's prosperity, envisioning a future where safety and freedom are paramount.
+
+Passions Beyond Technology
+When I'm not immersed in the world of AI and cybersecurity, you'll find me indulging in writing and sports, especially those involving boards. This balance of intellectual and physical activities keeps me grounded and focused.
+
+My Entrepreneurial Journey: From Bamboo Sticks to Flying Boards
+My entrepreneurial spirit was kindled early, starting with selling a bamboo stick and progressing through various ventures like alarm systems and heaters. Today, I stand at the forefront of AI solutions, and I dream of a day when I'll bring flying boards to the market.
+
+Vision for the Future
+My ultimate goal is to contribute significantly to the prosperity of our species. By securing a safe and free future, I aim to leave a lasting impact on the world.
+
+Join me on this exciting journey as we explore the realms of technology, entrepreneurship, and the relentless pursuit of greatness.
 
 
 ## service
