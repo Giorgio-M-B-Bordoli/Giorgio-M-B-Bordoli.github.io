@@ -64,6 +64,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="icon" href="https://liamottley.com/wp-content/uploads/2023/03/cropped-Liam-02-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://liamottley.com/wp-content/uploads/2023/03/cropped-Liam-02-180x180.png" />
 <meta name="msapplication-TileImage" content="https://liamottley.com/wp-content/uploads/2023/03/cropped-Liam-02-270x270.png" />
+</head>
 <body class="home page-template page-template-elementor_header_footer page page-id-3905 wp-custom-logo wp-embed-responsive elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-3905 page-home-light   template-color-1  header-sticky header-layout-1 0  white-version  active_light_mode">
 <div id="main-wrapper" class="main-wrapper">
     <header class="rn-header header-style-1 haeder-default black-logo-version header-right-align       header--sticky">
